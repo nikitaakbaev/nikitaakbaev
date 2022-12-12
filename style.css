@@ -1,0 +1,127 @@
+@font-face {
+	font-family: 'HindSiliguri-Bold';
+  src: url(Hind_Siliguri/HindSiliguri-Bold.ttf);
+}
+@font-face {
+	font-family: 'HindSiliguri-Light';
+  src: url(Hind_Siliguri/HindSiliguri-Light.ttf);
+}
+.text-button-style{
+  font-family: 'HindSiliguri-Light';
+  font-size: 18px;
+  color: #BDBDBD;
+  border-style: none;
+  background-color: #ffffff;
+}
+.logo{
+  margin-top: 13px;
+}
+.shapka1{
+  font-family: 'HindSiliguri-Light';
+  font-size: 18px;
+  color: #292830;
+}
+.shapka2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 25px;
+}
+.button-style{
+  font-family: 'HindSiliguri-Light';
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-color: #FF7235;
+  border-style: solid;
+  padding: 15px;
+  font-size: 18px;
+  line-height: 90%;
+  color: #FF7235;
+}
+.style-text{
+  font-family: 'HindSiliguri-Bold';
+  font-size: 96px;
+  color: #292830;
+}
+.style-text1{
+  font-family: 'HindSiliguri-Light';
+  font-size: 24px;
+  color: #BDBDBD;
+  height: 40px;
+  width: 500px;
+}
+.text0{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 165px;
+  
+}
+.text1{
+  line-height: 90px;
+  width: 550px;
+  margin-top: 216px;
+  height: 160px;
+}
+.img{
+  margin-right: 165px;
+  margin-top: 211px;
+}
+.button-flex{
+  display: flex;
+  justify-content: flex-start;
+  align-self: flex-start;
+  width: 480px;
+}
+.text-flex{
+  font-family: HindSiliguri-Light;
+  font-size: 24px;
+  color: #BDBDBD;
+  margin-left: 15px;
+}
+.button-style2{
+  font-family: HindSiliguri-Light;
+  background-color: #FF7235;
+  border-radius: 9px;
+  height: 75px;
+  width: 210px;
+  border-style: none;
+  font-size: 24px;
+  color: #ffffff;
+}
+.icon{
+  margin-left: 10px;
+}
+.block2{
+  display: flex;
+  justify-content: center;
+  align-self:center;
+  background-color: #FF7235;
+  width: 100%;
+  background-image: url(img/block2/Blob.png);
+}
+.img-da{
+  width: 1110px;
+  height: 619px;
+  margin-top: 87px;
+}
+.container{
+  max-width: 1440px;
+  margin:0 auto;
+}
+.img-gradient{
+  overflow: hidden;
+}
+.norm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vector3{
+  justify-content: right;
+}
+.block3{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 188px;
+}
